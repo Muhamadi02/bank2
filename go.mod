@@ -1,1 +1,1 @@
-module github.com/Muhamadi02/bank2
+module github.com/Muhamadi02/bank2/v2
